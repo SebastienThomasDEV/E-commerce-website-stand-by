@@ -1,2 +1,2 @@
-# techlotteryv2-old
- Old code from 2020
+# E-commerce website
+> PHP/HTML/CSS/JS
